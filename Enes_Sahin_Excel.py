@@ -36,7 +36,7 @@ sayfa.cell(row=4,column=1, value="Mustafa")
 sayfa.cell(row=4,column=2, value="Çirci")
 sayfa.cell(row=4,column=3, value="2.Sınıf")
 sayfa.cell(row=4,column=4, value="Bilgisiyar Mühendisliği")
-
+#öncelikle biliyorum "kodu'mun sizin istediğiniz gibi olmadığını fakat gerçekten çok uğraştım elimden geleni yaptım başka bi yerden alarak yapmak yerine öğrendiğim komutlarla yapmak istedim
 
 
 dosya.save("./Enes Şahin - kulucka_ogrenci_listesi.xlsx")
